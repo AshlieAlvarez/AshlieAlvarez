@@ -2,7 +2,7 @@
 
 Thanks for visiting my GitHub Page!
 
-_Last edited: November 2023_
+_Last edited: December 2023_
 
 Hey there! I'm Ashlie from Cincinnati, Ohio, and I'm an emerging full-stack software developer with a unique background in management. I bring a blend of coding skills and insights into customer behavior to create impactful digital solutions. Driven by a passion for continuous learning, I'm always exploring new technologies and love to connect with fellow tech enthusiasts.
 
